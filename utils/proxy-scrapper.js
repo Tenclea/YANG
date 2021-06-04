@@ -20,6 +20,7 @@ module.exports = async () => {
 			'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt',
 			'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt',
 			'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt',
+			'https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt',
 		],
 	};
 
