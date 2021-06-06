@@ -44,7 +44,7 @@ module.exports = {
 
 			if (version !== update) {
 				module.exports.updateAvailable = update;
-				if (!silent) return logger.info(chalk.bold(`An update is available on GitHub (v${update}) ! https://github.com/Tenclea/YANG`));
+				if (!silent) return logger.info(chalk.bold(`An update is available on GitHub (v${update})! https://github.com/Tenclea/YANG`));
 			}
 		})();
 	},
